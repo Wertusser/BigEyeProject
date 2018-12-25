@@ -1,0 +1,3 @@
+bigeye-front/node_modules/*
+venv/
+.idea/
